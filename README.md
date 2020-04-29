@@ -17,3 +17,6 @@ step 3 - update db.php as your database configuration.
 step 4 - simply execute(run) the index.php file.
 
 ![alt text](https://github.com/JAYDEEP-KUMAR/PHP-Ajax-Searchable-Country-State-City-Dropdown./blob/master/screenshots/1.PNG?raw=true)
+![alt text](https://github.com/JAYDEEP-KUMAR/PHP-Ajax-Searchable-Country-State-City-Dropdown./blob/master/screenshots/2.PNG?raw=true)
+![alt text](https://github.com/JAYDEEP-KUMAR/PHP-Ajax-Searchable-Country-State-City-Dropdown./blob/master/screenshots/3.PNG?raw=true)
+![alt text](https://github.com/JAYDEEP-KUMAR/PHP-Ajax-Searchable-Country-State-City-Dropdown./blob/master/screenshots/4.PNG?raw=true)
